@@ -2,7 +2,7 @@
 
 ![Darling logo](https://darlinghq.org/img/darling250.png)
 
-Darling 迷わぬよう歩いていける たったひとつの道标
+Darling~迷わぬよう歩いていける~たったひとつの道标
 
 ## Download
 
