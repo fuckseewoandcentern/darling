@@ -2,9 +2,7 @@
 
 ![Darling logo](https://darlinghq.org/img/darling250.png)
 
-Darling is a runtime environment for macOS applications.
-
-Please note that most GUI applications will not run at the moment.
+Darling 迷わぬよう歩いていける たったひとつの道标
 
 ## Download
 
@@ -70,3 +68,5 @@ Xcode is now distributed in `.xip` files. These can be installed using `unxip`:
 cd /Applications
 unxip Xcode_11.3.xip
 ```
+### Licence
+Licenced under GNU General Public License v3.0
